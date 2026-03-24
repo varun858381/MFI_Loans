@@ -1,0 +1,9 @@
+
+{
+  "name": "MFI Compliance & Lending Pro",
+  "description": "A comprehensive RBI-compliant Digital Lending and KYC platform for MFIs, featuring CKYCR integration, V-CIP, and automated AML reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
